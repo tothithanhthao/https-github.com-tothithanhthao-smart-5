@@ -1,0 +1,6 @@
+{
+  "name": "Smart Start Grade 5 English",
+  "description": "App học và luyện nghe, nói, đọc, viết tiếng Anh lớp 5 theo sách i-Learn Smart Start từ Unit 1 đến Unit 8",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
